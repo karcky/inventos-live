@@ -55,7 +55,7 @@ body {
   position: relative;
   width: 50%;
   box-shadow: 16px 16px 16px 16px rgba(58, 57, 57, 0.822);
-  border-radius:10px 0px 0px 10px ;
+  border-radius:10px 5px 5px 10px ;
 }
 @media (max-width: 767px) {
   .left {
